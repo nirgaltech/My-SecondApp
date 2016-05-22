@@ -23,9 +23,11 @@ public class MainActivity extends AppCompatActivity implements RefreshListView.O
         adapter.add("Three");
 
         listView = (RefreshListView) findViewById(R.id.list);
-        listView.setAdapter(adapter);
-        listView.setEnabledDate(true);
-        listView.setRefreshListener(this);
+        if(listView!=null) {
+            listView.setAdapter(adapter);
+            listView.setEnabledDate(true);
+            listView.setRefreshListener(this);
+        }
     }
 
     @Override
@@ -39,7 +41,7 @@ public class MainActivity extends AppCompatActivity implements RefreshListView.O
         @Override
         protected String doInBackground(Void... params) {
 
-            return "New value";
+            return "New value " + Math.random();
         }
 
         @Override
