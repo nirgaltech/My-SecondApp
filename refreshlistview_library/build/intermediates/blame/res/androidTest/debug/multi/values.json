@@ -1,0 +1,228 @@
+[
+    {
+        "outputFile": "C:\\Users\\jbt\\Desktop\\RefreshListDemo\\refreshlistview_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 75,
+                    "endOffset": 126
+                },
+                "from": {
+                    "file": "C:\\Users\\jbt\\Desktop\\RefreshListDemo\\refreshlistview_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 75,
+                        "endOffset": 126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 131,
+                    "endColumn": 70,
+                    "endOffset": 197
+                },
+                "from": {
+                    "file": "C:\\Users\\jbt\\Desktop\\RefreshListDemo\\refreshlistview_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 131,
+                        "endColumn": 70,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 202,
+                    "endColumn": 74,
+                    "endOffset": 272
+                },
+                "from": {
+                    "file": "C:\\Users\\jbt\\Desktop\\RefreshListDemo\\refreshlistview_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 202,
+                        "endColumn": 74,
+                        "endOffset": 272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 277,
+                    "endColumn": 71,
+                    "endOffset": 344
+                },
+                "from": {
+                    "file": "C:\\Users\\jbt\\Desktop\\RefreshListDemo\\refreshlistview_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 277,
+                        "endColumn": 71,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 349,
+                    "endColumn": 62,
+                    "endOffset": 407
+                },
+                "from": {
+                    "file": "C:\\Users\\jbt\\Desktop\\RefreshListDemo\\refreshlistview_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 349,
+                        "endColumn": 62,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 412,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 717
+                },
+                "from": {
+                    "file": "C:\\Users\\jbt\\Desktop\\RefreshListDemo\\refreshlistview_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 722,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 999
+                },
+                "from": {
+                    "file": "C:\\Users\\jbt\\Desktop\\RefreshListDemo\\refreshlistview_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1004,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1182
+                },
+                "from": {
+                    "file": "C:\\Users\\jbt\\Desktop\\RefreshListDemo\\refreshlistview_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1004,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 1182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1187,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1461
+                },
+                "from": {
+                    "file": "C:\\Users\\jbt\\Desktop\\RefreshListDemo\\refreshlistview_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1187,
+                        "endLine": 28,
+                        "endColumn": 12,
+                        "endOffset": 1461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1466,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1689
+                },
+                "from": {
+                    "file": "C:\\Users\\jbt\\Desktop\\RefreshListDemo\\refreshlistview_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1466,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1694,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 1977
+                },
+                "from": {
+                    "file": "C:\\Users\\jbt\\Desktop\\RefreshListDemo\\refreshlistview_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1694,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1977
+                    }
+                }
+            }
+        ]
+    }
+]
