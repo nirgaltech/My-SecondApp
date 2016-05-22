@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity implements RefreshListView.O
         @Override
         protected String doInBackground(Void... params) {
 
-            return "New value " + Math.random();
+            return "New value";
         }
 
         @Override
